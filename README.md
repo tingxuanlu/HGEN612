@@ -1,0 +1,2 @@
+# HGEN612
+For HGEN612 class
